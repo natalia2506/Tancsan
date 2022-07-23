@@ -12,7 +12,7 @@ const db = require('./database/mongoConnect')
 db.connect()
 
 const userRoutes = require('./routes/userRoutes')
-app.use("/user", userRoutes)
+app.use("/usuario", userRoutes)
 
 const cadastroDeClienteRoutes = require('./routes/cadastroClienteRoutes')
 app.use("/cadastroCliente", cadastroDeClienteRoutes)

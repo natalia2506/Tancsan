@@ -1,16 +1,6 @@
 const UserSchema = require("../models/userSchema");
 const bcrypt = require("bcrypt");
 
-
-const getAll = async (req, res) => {
-  UserSchema.find(function (err, users) {
-    if(err) {
-      res.status(500).send({ message: err.message })
-    }
-      res.status(200).send(users)
-  }) 
-};
-
 const createUser = async (req, res) => {
     const hashedPassword = bcrypt.hashSync(req.body.password, 10);
     req.body.password = hashedPassword      
@@ -38,6 +28,15 @@ const createUser = async (req, res) => {
       res.status(500).send({ message: error.message });
     }
   }
+
+const getAll = async (req, res) => {
+  UserSchema.find(function (err, users) {
+    if(err) {
+      res.status(500).send({ message: err.message })
+    }
+      res.status(200).send(users)
+  }) 
+};
 
 const updateUser = async (request, response) => {
     try {
@@ -81,8 +80,8 @@ const deleteUser = async (request, response) => {
 }
   
 module.exports = {
-  getAll,
   createUser,
+  getAll,
   updateUser,
   deleteUser
 };
