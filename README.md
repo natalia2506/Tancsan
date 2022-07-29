@@ -1,9 +1,8 @@
 # ONG TANCSAN 
 
-<h1 align="center">
-  <img src=".https://www.canva.com/design/DAFH0Gv8Y7o/2wURU-gr6Ivyl03GSjl5oQ/edit?utm_content=DAFH0Gv8Y7o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="350">
-<p align="center"><p>
-</h1>
+<div align="center">
+    <img src="https://www.canva.com/design/DAFH0Gv8Y7o/2wURU-gr6Ivyl03GSjl5oQ/edit?utm_content=DAFH0Gv8Y7o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="50%">
+</div>
 
 
 
