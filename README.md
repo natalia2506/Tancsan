@@ -11,6 +11,7 @@
 
 * [Projeto](#projeto)
 * [Objetivo](#objetivo)
+* [Apresentação](#apresentação)
 * [Tecnologias Utilizadas](#tecnologias)
 * [Arquitetura MVC](#arquitetura)
 * [Mapeamento das Rotas](#rotas)
@@ -53,6 +54,13 @@ O tempo de uso de uma roupinha de bebê aumentaria, ou seja, uma roupinha que an
 ### 🎯 Objetivo
 
 O projeto visa realizar doações de roupinhas e itens infantis para pessoas em situação de vulnerabilidade social, e, para pessoas defensoras do meio ambiente. Tem por objetivo aumentar o tempo de uso de roupinhas e itens infantis, fazendo com que, uma roupinha não seja descartada no aterro sanitário com apenas poucos dias ou meses de uso. Além das doações, o projeto visa conscientizar pessoas, com foco na minimização dos danos ambientais. 
+
+---
+<div id='apresentação'/>
+
+## 🔗 Apresentação
+
+- [Apresentação](https://www.canva.com/design/DAFHjjWITGI/4oaDcXh0FdysivTXVFcsLQ/view?utm_content=DAFHjjWITGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
